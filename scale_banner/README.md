@@ -1,6 +1,6 @@
 # scale_banner
 
-A new Flutter package project.
+This is a custom widget that help you create the infinity banner with scale animation.In the process of scrolling,the left/right item will becmome smaller than the midlle one.
 
 ## Getting Started
 

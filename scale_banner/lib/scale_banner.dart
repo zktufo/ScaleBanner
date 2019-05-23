@@ -79,8 +79,6 @@ class _ScaleBannerState extends State<ScaleBanner> {
             child: IntrinsicHeight(
               child: Container(
                 padding: EdgeInsets.all(6.0),
-//                color: widget.textBackgroundColor,
-//                child: getBannerTextInfoWidget(),
               ),
             ),
           ),
